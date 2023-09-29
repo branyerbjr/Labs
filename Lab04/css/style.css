@@ -135,27 +135,27 @@ a:hover{
     height: 20px;
     display: inline-block;
     background-size: cover;
-    background-image: url(/Lab04/imagenes/icono.png);
+    background-image: url(Lab04/imagenes/icono.png);
     
 }
 .email{
-    background-image: url(/Lab04/imagenes/gmail.png);
+    background-image: url(Lab04/imagenes/gmail.png);
 }
 .linkedin{
-    background-image: url(/Lab04/imagenes/linkedin.png);
+    background-image: url(Lab04/imagenes/linkedin.png);
 }
 .icono{
-    background-image: url(/Lab04/magenes/icono.png) ;
+    background-image: url(Lab04/magenes/icono.png) ;
     width: 30px;
     height: 30px;
 }
 .program{
-    background-image: url(/Lab04/imagenes/program.png);
+    background-image: url(Lab04/imagenes/program.png);
     width: 30px;
     height: 30px; 
 }
 .idioma{
-    background-image: url(/Lab04/imagenes/idioma.png);
+    background-image: url(Lab04/imagenes/idioma.png);
     width: 30px;
     height: 30px;
 }
