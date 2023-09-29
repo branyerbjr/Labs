@@ -135,17 +135,17 @@ a:hover{
     height: 20px;
     display: inline-block;
     background-size: cover;
-    background-image: url(/imagenes/icono.png);
+    background-image: url(imagenes/icono.png);
     
 }
 .email{
     background-image: url(/imagenes/gmail.png);
 }
 .linkedin{
-    background-image: url(/imagenes/linkedin.png);
+    background-image: url(imagenes/linkedin.png);
 }
 .icono{
-    background-image: url(/imagenes/icono.png) ;
+    background-image: url(imagenes/icono.png) ;
     width: 30px;
     height: 30px;
 }
