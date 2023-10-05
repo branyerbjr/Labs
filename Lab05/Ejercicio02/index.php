@@ -16,7 +16,7 @@
         }
     </style>
     <h1>Calculadora de precios de gaseosas</h1>
-    <form method="post" action="calculadora.php">
+    <form method="post" action="datos.php">
         <label for="precio">Precio actual de la gaseosa:</label>
         <input type="number" name="precio" id="precio" required>
         <label for="cantidad">Cantidad de gaseosas adquiridas:</label>

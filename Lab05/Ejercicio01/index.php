@@ -10,7 +10,7 @@
 
 <body>
     <h1>Calculadora de sueldo vendedor</h1>
-    <form method="POST" action="calcular.php">
+    <form method="POST" action="datos.php">
         <label for="totalVendido">Importe total vendido del mes:</label>
         <input type="number" name="totalVendido" id="totalVendido" required>
         <label for="hijosEscolar">Cantidad de hijos en edad escolar:</label>
