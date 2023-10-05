@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+
+form {
+  margin: 0 auto;
+  max-width: 400px;
+}
+
+button[type="submit"] {
+  display: block;
+  margin: 20px auto;
+  color: blueviolet;
+}
+
+p {
+  margin-bottom: 10px;
+}
